@@ -1,0 +1,7 @@
+Steps to run:
+ 1. Generate sample image:
+    $ python sample_image_generator.py
+ 2. Run the main program to hide or extract messages:
+    $ python main_steganography.py
+ 3. Run tests (optional):
+    $ python test_steganography.py
