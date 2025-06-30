@@ -20,9 +20,6 @@ This project hides encrypted messages inside images using AES encryption and LSB
 3. Run the script: `python main.py`
 4. View output: `stego.png` and decrypted message
 
-## 🖼️ Screenshots
-(Attach or embed screenshots from `/screenshots`)
-
 ## 🔗 References
 Listed in the PPT or project report.
 
