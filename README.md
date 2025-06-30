@@ -1,3 +1,4 @@
+
 # 🔐 Image Steganography with AES Encryption
 
 This project hides encrypted messages inside images using AES encryption and LSB steganography.
@@ -19,6 +20,9 @@ This project hides encrypted messages inside images using AES encryption and LSB
 2. Run: `pip install -r requirements.txt`
 3. Run the script: `python main.py`
 4. View output: `stego.png` and decrypted message
+
+## 🖼️ Screenshots
+(Attach or embed screenshots from `/screenshots`)
 
 ## 🔗 References
 Listed in the PPT or project report.
