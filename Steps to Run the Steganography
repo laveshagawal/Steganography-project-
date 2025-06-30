@@ -1,0 +1,22 @@
+**Generate Sample Image:
+
+bash
+python sample_image_generator.py
+
+
+*Embed Message:
+
+bash
+python main_steganography.py
+Choose option 1 and provide:
+
+Image path: sample.png
+
+Message: Test secret 🔐
+
+Password: MySecurePassword!
+
+*Extract Message:
+
+bash
+python main_steganography.py
